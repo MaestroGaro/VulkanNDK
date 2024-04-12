@@ -6,7 +6,7 @@ Debe mostrar solo la pantalla con una animacion que en internet se llama plasma.
 El objetivo principal, fue configurar el ambiente de programacion en android studio (2023)
 para que solo permitiera ejecutar un main desde la codificascion C++ (Activity nativo).
 Debe configurarse:
-  * Manifes.
+  * Manifest.
   * Build gradle.
   * Makefile.
 
