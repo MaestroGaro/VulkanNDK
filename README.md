@@ -17,4 +17,4 @@ Considere:
 
 Pruebas:
   * Desde android Studio.
-  * Ejecicion en telefono Samsung Note 10.
+  * Ejecucion en telefono Samsung Note 10.
